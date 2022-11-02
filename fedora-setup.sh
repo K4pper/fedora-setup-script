@@ -8,6 +8,7 @@ defaultyes=True
 keepcache=True
 EOF
 
+# Update
 sudo dnf update
 
 #Installing essential programs
